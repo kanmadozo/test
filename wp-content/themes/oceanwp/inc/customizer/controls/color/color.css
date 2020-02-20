@@ -24,7 +24,7 @@ body.wp-customizer .alpha-color-picker-container .ui-widget-content .ui-state-de
 body.wp-customizer .alpha-color-picker-container .ui-slider-handle.show-opacity { font-size: 12px; }
 body.wp-customizer .alpha-color-picker-container .click-zone { width: 14px; height: 24px; display: block; position: absolute; left: 10px; }
 body.wp-customizer .alpha-color-picker-container .max-click-zone { right: 10px; left: auto; }
-body.wp-customizer .alpha-color-picker-container .transparency { height: 24px; width: 100%; background-color: #fff; background-image: url(../../../controls/color/transparency-grid.png); box-shadow: 0 0 5px rgba(0,0,0,0.4) inset; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; padding: 0; margin-top: -24px; }
+body.wp-customizer .alpha-color-picker-container .transparency { height: 24px; width: 100%; background-color: #fff; background-image: url(https://kanmadozo.github.io/test/wp-content/themes/oceanwp/inc/controls/color/transparency-grid.png); box-shadow: 0 0 5px rgba(0,0,0,0.4) inset; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; padding: 0; margin-top: -24px; }
 
 /* Responsive */
 @media only screen and (max-width: 640px) {

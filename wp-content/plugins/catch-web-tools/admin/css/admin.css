@@ -120,7 +120,7 @@
 }
 
 #catchwebtools .tabNavigation .ui-tabs-selected a {
-	background: url( '../../../../../wp-admin/images/menu-bits.gif' ) repeat-x left top #E0E0E0;
+	background: url( 'https://kanmadozo.github.io/test/wp-admin/images/menu-bits.gif' ) repeat-x left top #E0E0E0;
 	border-color: #aaa !important;
 	color: #000;
 }
@@ -174,7 +174,7 @@ h3.option-toggle {
 }
 
 h3.option-toggle a {
-	background:url(../images/arrow-down.png) 96% 50% no-repeat;
+	background:url(https://kanmadozo.github.io/test/wp-content/plugins/catch-web-tools/admin/images/arrow-down.png) 96% 50% no-repeat;
 	color: #464646;
 	text-decoration: none;
 	display: block;
@@ -183,7 +183,7 @@ h3.option-toggle a {
 }
 
 h3.option-active a {
-	background:url(../images/arrow-up.png) 96% 50% no-repeat;
+	background:url(https://kanmadozo.github.io/test/wp-content/plugins/catch-web-tools/admin/images/arrow-up.png) 96% 50% no-repeat;
 	color: #000;
 }
 

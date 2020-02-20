@@ -185,7 +185,7 @@ i {
 }
 
 blockquote {
-	background: url('images/quote.png') top left no-repeat;
+	background: url('https://kanmadozo.github.io/test/wp-content/themes/oceanic/images/quote.png') top left no-repeat;
 	margin: 0 1.5em 0 0;
 	padding: 0 0 0 3.5em;
 }
@@ -938,7 +938,7 @@ ul.no-bullets {
 .search-block .search-submit,
 .widget_search .search-submit {
     padding: 0;
-    background-image: url(images/search_btn_bg.png) !important;
+    background-image: url(https://kanmadozo.github.io/test/wp-content/themes/oceanic/images/search_btn_bg.png) !important;
     background-repeat: no-repeat !important;
     background-position: center center !important;
     height: 33px;
@@ -1054,7 +1054,7 @@ div.wpcf7-validation-errors {
 .home-slider-remove { 
     height: 403px !important;
     overflow: hidden;
-    background-image: url(images/loader.gif);
+    background-image: url(https://kanmadozo.github.io/test/wp-content/themes/oceanic/images/loader.gif);
     background-repeat: no-repeat;
     background-position: center center;
 }
@@ -1433,7 +1433,7 @@ div.wpcf7-validation-errors {
     position: relative;
 }
 .post-loop-images-carousel-wrapper-remove {
-    background-image: url(images/loader.gif);
+    background-image: url(https://kanmadozo.github.io/test/wp-content/themes/oceanic/images/loader.gif);
     background-position: center center;
     background-repeat: no-repeat;
     height: 220px;

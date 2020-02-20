@@ -3111,7 +3111,7 @@ h2.nivo-caption-mate {
 .theme-default .nivoSlider {
 	position: relative;
 	z-index: 100;
-	background: url(images/nivoslider/loading.gif) no-repeat 50% 50%;
+	background: url(https://kanmadozo.github.io/test/wp-content/themes/nirvana/images/nivoslider/loading.gif) no-repeat 50% 50%;
     margin-bottom: 50px;
 }
 
@@ -3186,7 +3186,7 @@ h2.nivo-caption-mate {
 	width: 60px;
 	height: 70px;
 	/* padding: 10px; */
-	background: url(images/nivoslider/arrows.png) 15px 15px #fff  no-repeat;
+	background: url(https://kanmadozo.github.io/test/wp-content/themes/nirvana/images/nivoslider/arrows.png) 15px 15px #fff  no-repeat;
 	text-indent: -9999px;
 	border: 0;
 	-webkit-transform: scale(0.8);
@@ -3422,7 +3422,7 @@ a.nivo-imageLink  {
 }
 
 #cryout_ajax_more_trigger.cryout_click_loading {
-	background: url(images/loading.gif) transparent no-repeat center center;
+	background: url(https://kanmadozo.github.io/test/wp-content/themes/nirvana/images/loading.gif) transparent no-repeat center center;
 	text-indent: -9999px;
 	border: 0;
 }

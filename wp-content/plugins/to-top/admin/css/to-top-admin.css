@@ -134,7 +134,7 @@ h3.option-toggle {
 }
 
 h3.option-toggle a {
-	background:url(../images/arrow-down.png) 96% 50% no-repeat;
+	background:url(https://kanmadozo.github.io/test/wp-content/plugins/to-top/admin/images/arrow-down.png) 96% 50% no-repeat;
 	color: #464646;
 	text-decoration: none;
 	display: block;
@@ -143,7 +143,7 @@ h3.option-toggle a {
 }
 
 h3.option-active a {
-	background:url(../images/arrow-up.png) 96% 50% no-repeat;
+	background:url(https://kanmadozo.github.io/test/wp-content/plugins/to-top/admin/images/arrow-up.png) 96% 50% no-repeat;
 	color: #000;
 }
 

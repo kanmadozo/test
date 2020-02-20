@@ -161,4 +161,3 @@
 	</select>
 </script>
 
-<?php do_action( 'oe_menu_icons_js_templates' );

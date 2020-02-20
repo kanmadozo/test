@@ -22,7 +22,7 @@
 /* theme logo in about section */
 #accordion-section-cryoutspecial-about-theme > .accordion-section-title::before,
 #accordion-panel-cryoutspecial-about-theme > .accordion-section-title::before {
-	background: url(../../admin/images/logo-customizer.png) center right no-repeat;
+	background: url(https://kanmadozo.github.io/test/wp-content/themes/nirvana/admin/images/logo-customizer.png) center right no-repeat;
     content: "";
     height: 22px;
     position: absolute;
